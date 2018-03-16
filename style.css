@@ -1,0 +1,12 @@
+.game-up-container{
+    display:none;
+    top:304px;
+    left:209px;
+    width: 267px;
+    background-color: black;
+    color: red;
+    font-weight: bold;
+    font-size: 26px;
+    height: 40px;
+    position: absolute;
+}
